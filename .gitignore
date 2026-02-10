@@ -34,3 +34,4 @@ logs/
 # Temporary files
 .cache/
 .parcel-cache/
+serviceAccountKey.json
